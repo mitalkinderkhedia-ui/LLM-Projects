@@ -1,2 +1,2 @@
 # LLM-Projects
-Showcase LLM Projects
+End-End LLM Projects
